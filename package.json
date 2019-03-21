@@ -1,0 +1,24 @@
+{
+  "name": "@deondigital/sic",
+  "version": "0.32.0",
+  "description": "sic code generation",
+  "author": "Deon Digital",
+  "main": "index.js",
+  "scripts": {
+    "install": "binwrap-install",
+    "prepare": "binwrap-prepare",
+    "test": "binwrap-test",
+    "prepublish": "npm test"
+  },
+  "files": [
+    "index.js",
+    "bin"
+  ],
+  "bin": {
+    "sic": "bin/sic"
+  },
+  "dependencies": {
+    "binwrap": "^0.2.0"
+  },
+  "license": "LicenseRef-LICENSE"
+}

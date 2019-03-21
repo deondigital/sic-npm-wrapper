@@ -1,0 +1,680 @@
+Deon Digital AG -- Developer License Terms and Conditions
+
+These Deon Digital Developer License Terms and Conditions (the "Terms") apply to
+any agreement regarding the use and access of the software and API for the
+purpose of developing, implementing and Publishing Applications (the "Applicable
+Agreement") between Deon Digital AG, a Swiss corporation, located at
+Max-Högger-Strasse 6, 8048 Zurich, Switzerland ("Deon Digital"), and the
+developer of the Deon Digital Solution ("Developer").  Deon Digital has
+developed a programming language to develop software and applications for
+digital and smart contracts. The Deon technology is distributed ledger,
+blockchain and database agnostic, i.e.  can be executed in any (distributed)
+ledger. The technology is used by Developer for programming applications using
+the Deon Digital programming language. The source code of the Deon Digital
+programming language CSL is interpreted and executed on the Deon Digital
+Solution, i.e. RTE.  By accessing or using the API, using and downloading the
+Deon Digital Solution or authorizing or permitting any individual to access or
+use the software and/or the API, Developer agrees to be bound by these Terms.
+
+
+1. Definitions.
+
+  The following terms shall have the meanings set forth below:
+
+  1.1 "Activation Date" means the date the Deon Digital Solution is first made
+  available to Developer in connection with the terms set forth in the Purchase
+  Order.
+
+  1.2 "API" means an API and any accompanying or related documentation,
+  executable applications and other materials made available by Deon Digital,
+  including, without limitation, through its Developer Website and/or
+  third-party Cloud Services.
+
+  1.3 "Applications" means software or applications developed by Developer that
+  utilize or interact with the API and/or the Deon Digital Solution and are
+  authorized to be published pursuant to these Terms.
+
+  1.4 "Customer" means and refers to an individual or an Entity that has agreed
+  to a service or license agreement for use of Developer'S services, products or
+  Applications.
+
+  1.5 "Developer" means any company or natural person which accesses the Deon
+  Digital Solution or Downloads the Deon Digital Solution or purchases the Deon
+  Digital Solution
+
+  1.6 "Developer Data" means any information or data that Developer supplies to
+  Deon Digital or the Deon Digital Solution.
+
+  1.7 "Deon Digital Solution" means the Deon Digital programming languages
+  described by its Syntax and Semantics and all associated software such as RTE
+  and SDK for execution of developed Applications.
+
+  1.8 "Download" means a downloading of Deon Digital Solution software. By
+  downloading a standard Purchase Order is issued by Deon Digital.
+
+  1.9 "Effective Date" means the effective date indicated in the Purchase Order.
+
+  1.10 "Intellectual Property Rights" means any and all (i) rights associated
+  with works of authorship throughout the universe, including but not limited to
+  copyrights, moral rights, and mask-works; (ii) trademark and trade name rights
+  and similar rights; (iii) trade secret rights; (iv) patents, designs,
+  algorithms and other industrial property rights; (v) all other intellectual
+  and industrial property and proprietary rights (of every kind and nature
+  throughout the universe and however designated), whether arising by operation
+  of law, contract, license or otherwise; and (vi) rights or interest in
+  registrations, applications, renewals, extensions, continuations, divisions or
+  reissues thereof.
+
+  1.11 "Internal Use" means the use of the API and/or the Deon Digital Solution
+  in connection with Developer's Purchase Order for the Developer's internal
+  business and development purposes in accordance with these Terms.
+
+  1.12 "Marks" mean Deon Digital and Deon Digital's other product and service
+  names, trademarks, service marks, branding and logos made available for use in
+  connection with the APIs pursuant to these Terms.
+
+  1.13 "Parties" means Deon Digital and Developer.
+
+  1.14 "Party" means either Deon Digital or Developer as the case may be.
+
+  1.15 "Privacy Policy" means Deon Digital's Privacy Policy which can be found
+  under www.deondigital.com.
+
+  1.16 "Publish/Published/Publishing" means the making of any Application
+  available to any Customer other than Developer or for any purpose other than
+  for use by Developer as a Customer for Internal Use.
+
+  1.17 "Purchase Order" means a purchase order issued by Deon Digital
+
+  1.18 "Run-Time Environment (RTE)" means a software binary which enables the
+  interpretation, compilation, and/or execution of the Source Code written in
+  the syntax made available by Deon Digital on a computer and/or a distributed
+  ledger technology.
+
+  1.19 "Services" means the services provided hereunder by Deon Digital,
+  including, but not limited to, Support and access to the Deon Digital
+  Solution.
+
+  1.20 "Software Development Kit (SDK)" means a software and tools to code in
+  Source Code Applications using the Syntax of Deon Digital's programming
+  languages which are executed on the RTE.
+
+  1.21 "Source Code" means the programming code in the programming languages
+  using the Syntax of Deon Digital Solution.
+
+  1.22 "Subscription Term" shall be the period of time designated in the
+  Purchase Order during which Developer shall have access to the Deon Digital
+  Solution. Each Subscription Term shall commence on the applicable Activation
+  Date.
+
+  1.23 "Syntax" means the specific rules, data objects, interface definitions,
+  events, etc. of the programming languages of Deon Digital which can be
+  executed in the run-time environment software
+
+  1.24 "User" means an employee or contractor of Developer that is authorized by
+  Developer to access the Deon Digital Solution.
+
+2.  Agreement and Acceptance
+
+  2.1 The legal relationship between Deon Digital and Developer shall be
+  governed exclusively by these Terms.
+
+  2.2 Any terms to the contrary are hereby expressly excluded.
+
+  2.3 The Terms shall also apply for all future transactions of this kind with
+  Developer.
+
+  2.4 These Terms shall govern and form an integral part of all agreements
+  entered into and all Purchase Order(s) placed by Developer for the provision
+  of the Services and/or Deon Digital Solution by Deon Digital. Each such
+  agreement or Purchase Order shall be referred to herein as the "Applicable
+  Agreement".
+
+  2.5 The Standard Purchase Order is accepted by downloading the Deon Digital
+  Solution. No explicit consent or signature are required.
+
+  2.6 No specific Purchase Order shall be binding on the Parties until accepted
+  in writing by an authorized representative of each Party, except the Standard
+  Purchase Order which comes in effect by Downloading the Deon Digital Solution
+  by the Developer.
+
+  2.7 Deon Digital reserves the right to change these Terms at any time with
+  effect for future Applicable Agreements.
+
+3.  Standard Purchase Order
+
+  3.1 Deon Digital grants the use of the Deon Digital Solution for testing and
+  trial purposes.
+
+  3.2 The usage under Standard Purchase Order is free of charge.
+
+  3.3 The usage is restricted to Internal Use and to non-commercial usage.
+
+  3.4 The purchase order can removed at any time by Deon Digital.
+
+  3.5 By Downloading the Deon Digital Solution this Standard Purchase Order is
+  issued to the Developer by Deon Digital.
+
+  3.6 The Standard Purchase Order is overruled by any specifically issued
+  Purchase Order to the Developer in written form.
+
+4.  Order of Precedence
+
+  4.1 In the event of any conflict between this Agreement, these Terms and other
+  legal documents concluded by Developer and Deon Digital, the conflict shall be
+  resolved in accordance with the following order of precedence:
+
+    4.1.1 These Terms in its current version.
+
+    4.1.2 The applicable Purchase Order(s);
+
+  4.2 Deviations from these Terms shall only be permissible and valid, if the
+  wording of the deviating clause explicitly refers to the clause of these Terms
+  from which is deviated in a specific Purchase Order.
+
+5.  Purpose and License
+
+  5.1 These Terms govern Developer's rights to use and access the RTE, the SDK
+  as well as the Syntax of the Deon Digital Solution for the purpose of
+  developing, implementing and Publishing Applications. The access and use is
+  either by downloading the software packages (SDK, RTE) from Deon Digital or
+  using the API provided to develop Applications. Developer's access to and use
+  of the RTE and SDK software and API for Internal Use is governed by these
+  Terms, including any and all restrictions and policies implemented by Deon
+  Digital from time to time with respect to the API as set forth in the
+  Documentation or as otherwise communicated to Developer ("General API
+  Policies").
+
+  5.2 Subject to these Terms, including the restrictions set forth in Section 5,
+  Deon Digital grants to Developer a non-exclusive, non-transferable, worldwide,
+  revocable right and license during the Term (as defined in Section 17) to: (a)
+  use the Deon Digital Solution to develop, implement and distribute
+  Applications solely for use by Customers in connection with the Services; and
+  (b) market and sell Applications in accordance with these Terms.
+
+  5.3 Developer grants to Deon Digital a non-exclusive, worldwide, fully
+  paid-up, royalty-free license to: (a) market, sell and distribute such
+  Applications; (b) permit others to access, install, purchase and (in the case
+  of downloadable software applications) download such Applications; and (c)
+  use, perform, and display such Applications. Developer further grants to Deon
+  Digital a non-exclusive, worldwide, fully paid-up, royalty-free license,
+  during the Term, to use Developer's name, Application name(s) and associated
+  logos (collectively, "Developer Marks") solely to enable Deon Digital to
+  exercise its rights and perform its obligations under these Terms. Any use of
+  Developer's Marks shall be in accordance with Developer's reasonable trademark
+  usage policies if such policies are communicated to Deon Digital.
+
+  5.4 Deon Digital shall have a royalty-free, fully paid-up, worldwide,
+  transferable, sub-licensable, irrevocable and perpetual license to implement,
+  use, modify, commercially exploit and/or incorporate into the Services and/or
+  the API any suggestions, enhancement requests, recommendations or other
+  feedback Deon Digital receives from Developer.
+
+6.  Restrictions and Responsibilities
+
+  The licenses granted in Section 4 of these Terms are explicitly conditioned on
+  Developer's adherence to the following restrictions and compliance with its
+  responsibilities as set forth herein.
+
+  6.1 Developer must comply with all restrictions set forth in these Terms, the
+  Privacy Policy, and the CSL Language Guide Documentation in all uses of the
+  API, the RTE and the SDK.  Developer must also comply with all restrictions
+  set forth in these Terms and the Trademark Usage Guidelines in all uses of
+  Marks. If Deon Digital believes, in its sole discretion, that Developer has
+  violated or attempted to violate any term, condition or the spirit of these
+  Terms, the license afforded Developer pursuant to these Terms may be
+  temporarily or permanently revoked, with or without notice to Developer.
+
+  6.2 Developer's Applications shall not substantially replicate products or
+  services offered by Deon Digital. Subject to the preceding sentence and the
+  Parties' other rights and obligations under these Terms, each Party agrees
+  that the other Party may develop and publish applications that are similar to
+  or otherwise compete with such Party's applications.
+
+  6.3 Developer is not permitted to use the RTE, the SDK and the API in any
+  manner that does or could potentially undermine the security of the Services,
+  the API or any other data or information stored or transmitted using the
+  Services. In addition, Developer shall not, and shall not attempt to: (a)
+  interfere with, modify or disable any features, functionality or security
+  controls of the Services or the API, (b) defeat, avoid, bypass, remove,
+  deactivate or otherwise circumvent any protection mechanisms for the Service
+  or the API, or (c) reverse engineer, decompile, disassemble or derive source
+  code, underlying ideas, algorithms, structure or organizational form from the
+  Services or the API.
+
+  6.4 Developer acknowledges that Developer is solely responsible, and that Deon
+  Digital has no responsibility or liability of any kind, for the content,
+  development, operation, support or maintenance of Applications. Without
+  limiting the foregoing, Developer will be solely responsible for (a) the
+  technical installation and operation of its Applications; (b) creating and
+  displaying information and content on, through or within its Applications; (c)
+  ensuring that its Applications do not violate or infringe the Intellectual
+  Property Rights of any third party; (d) ensuring that Applications are not
+  offensive, profane, obscene, libelous or otherwise illegal; (e) ensuring that
+  its Applications do not contain or introduce malicious software into a
+  Service, an API or other data stored or transmitted using the Service; and (f)
+  ensuring that its Applications are not designed to or utilized for the purpose
+  of spamming any Customers.
+
+  6.5 Developer will respect and comply with the technical and
+  policy-implemented limitations of the API and the restrictions of these Terms
+  in designing and implementing Applications.
+
+7.  Developer Obligations
+
+  7.1 Hardware/Software.
+  Developer is responsible for (i) obtaining, deploying and maintaining all
+  computer hardware, software and communications equipment needed to access and
+  use the Deon Digital Solution as set forth in a Purchase Order, (ii)
+  contracting with third parties that provide services related to Developer
+  being able to access and use the Deon Digital Solution (e.g., ISP,
+  telecommunications, etc.) as set forth in a Purchase Order, and (iii) paying
+  all third- party fees and access charges incurred while accessing and using
+  the Deon Digital Solution as specifically set forth and itemized in a Purchase
+  Order.  Deon Digital will not be required to supply any hardware, software or
+  equipment to Developer by reason of any agreement based on these Terms.
+
+  7.2 Conduct.
+  Developer acknowledges and agrees (i) that Developer is responsible for
+  selecting appropriate remediation for, and resolving, any issues found on
+  Developer's network, hardware, software, or third party services relied on by
+  Developer to access and use the Deon Digital Solution (collectively,
+  "Developer Items"); and (ii) that Deon Digital is not liable for, or
+  responsible to, remediate any issues found regarding Developer Items or
+  Developer Data, except to the extent caused by Deon Digital's negligent acts
+  or omissions.  Developer agrees: (a) to abide by all applicable local, state,
+  and national laws and regulations applicable to Developer's use of the Deon
+  Digital Solution; (b) not to send or store Developer Data to or on the Deon
+  Digital Solution which, to the best of its knowledge, violates the rights of
+  any individual or entity established in any jurisdiction, including any
+  intellectual property rights; (c) to use commercially reasonable measures not
+  to upload in any way any information or content that contain viruses, worms,
+  Trojan Horses, corrupted files, or any other similar software or programs,
+  harmful code or data that may damage the operation of the Deon Digital
+  Solution or another's computer or mobile device; (d) not to use the Deon
+  Digital Solution for illegal or fraudulent purposes; (e) not to intentionally
+  interfere or disrupt networks connected to the Deon Digital Solution; (f) not,
+  to the best of its knowledge, distribute, promote or transmit through the Deon
+  Digital Solution any unlawful, harmful, defamatory, obscene, pornographic or
+  otherwise objectionable material of any kind or nature; (g) not, to the best
+  of its knowledge, transmit or post any material that encourages conduct that
+  could constitute a criminal offense or give rise to civil liability; (h) not
+  to intentionally interfere with another Developer's use and enjoyment of the
+  Deon Digital Solution; (i) not to intentionally use the Deon Digital Solution
+  in any manner that impairs the Deon Digital Solution, including without
+  limitation the servers and networks on which the Deon Digital Solution are
+  provided; (j) not to run Mail list, Listserv, any form of auto-responder or
+  "spam" on the Services, or any processes that run or are activated while
+  Developer is not logged into the Deon Digital Solution, or that otherwise
+  intentionally interfere with the proper working of the Deon Digital Solution
+  (including by placing an unreasonable load on the Deon Digital Solution
+  infrastructure); and (k) not to launch any program that "crawls," "scrapes,"
+  or "spiders" any page, data, or portion of or relating to the Deon Digital
+  Solution (through use of manual or automated means).  Developer acknowledges
+  and agrees that Deon Digital neither endorses the contents of any Developer
+  Messaging or Developer Data, nor assumes any responsibility for any offensive
+  material contained therein, any infringement of third party intellectual
+  property rights arising therefrom or any crime facilitated thereby.  Deon
+  Digital may remove any content posted or stored using the Deon Digital
+  Solution or transmitted through the Deon Digital Solution that violates this
+  Section 6.3, with or without notice to Developer.
+
+8.  Fees and Taxes
+
+  8.1 Fees.
+  Developer agrees to pay the fees and charges mutually agreed upon by the
+  Parties and set forth in the Purchase Order (collectively, "Fees").  All Fees
+  are due in accordance with the payment schedule set forth in the Purchase
+  Order.  All Fees are quoted and payable in Swiss Francs currency.
+
+  8.2 Taxes.
+  The Fees are exclusive of all applicable sales, VAT or other taxes or duties
+  and Developer shall pay all such taxes. Deon Digital will be entitled to
+  deduct withholding tax from payments received from Developer as required for
+  any domestic or foreign location where such taxes may be required to be
+  collected or withheld.  If withholding tax is applicable, Deon Digital will
+  provide Developer with withholding tax receipts from tax authorities.
+
+  8.3 Late Payments.
+  Any payment not received from Developer by the due date shall accrue interest
+  (except with respect to charges then under reasonable and good faith dispute),
+  of five (5) percent points from the date such payment is due until the date
+  paid.
+
+9.  Representations, Warranties and Covenants
+
+  Developer represents, warrants and covenants that (a) its Applications and
+  Developer Marks, the use of such Applications by its users, and the activities
+  with respect to such Applications and Developer Marks undertaken by Deon
+  Digital in accordance with the terms of these Terms, do not and will not
+  violate, misappropriate or infringe upon the Intellectual Property Rights of
+  any third party; (b) Developer will comply with all applicable local, state,
+  national and international laws and regulations, including, without
+  limitation, all applicable export control laws, and maintain all licenses,
+  permits and other permissions necessary to develop, implement and Publish its
+  Applications; (c) its Applications do not and will not contain or introduce
+  any malicious software into the Service, the RTE, the SDK and/or the API or
+  other data stored or transmitted using the Service; (d) its Applications are
+  not designed to or utilized for the purpose of spamming any Customers; (e) it
+  has all right, power and authority to grant the licenses granted to Deon
+  Digital herein; and (f) it acknowledges Deon Digital's right to charge
+  transaction and/or listing fees as provided in Section 7herein.
+
+10.  Ownership
+
+  10.1 Deon Digital Solution.
+  As between Deon Digital and Developer, all right, title and interest in the
+  Deon Digital Material and all modifications and enhancements thereof by Deon
+  Digital, including all copyright rights, patent rights, trademark rights, and
+  other intellectual property rights in each of the foregoing, belong to and are
+  retained solely by Deon Digital or Deon Digital's licensors and providers, as
+  applicable.  Except for the express licenses granted in Section 4.2 (License
+  Grant), there are no other licenses granted to Developer, neither express nor
+  implied.  All rights in the Deon Digital Solution not granted in these Terms
+  are reserved by Deon Digital.
+
+  10.2 Developer Data.
+  As between Deon Digital and Developer, all right, title and interest in the
+  Costumer Data and any other content, technology or other material provided by
+  Developer, if any, belong to and are retained solely by Developer. Deon
+  Digital shall have the royalty-free worldwide right to collect, store, retain,
+  analyze and process Developer Data solely for the purposes of performing its
+  obligations under the Agreement on behalf of Developer.
+
+11.  Support
+
+  Deon Digital will provide to Developer online support services for the Deon
+  Digital Solution ("Support"): No other support services will be provided
+  unless specifically provided for in the Purchase Order.  These Terms do not
+  entitle Developer to any support for the Services or the API, the RTE, the SDK
+  and the Syntax, unless Developer makes separate arrangements with Deon Digital
+  for such support. Developer is solely responsible for providing all support
+  and technical assistance to End-Users of its Applications and Customers who
+  access, deploy and/or purchase its Applications. Developer acknowledges and
+  agrees that Deon Digital has no obligation to provide support or technical
+  assistance to the users of Applications and Developer shall not represent to
+  any such users that Deon Digital is available to provide such
+  support. Developer agrees to use commercially reasonable efforts to provide
+  reasonable support to users of its Applications.
+
+12.  Warranties/Warranty Disclaimer
+
+  The Deon Digital Solution and all aspects of the services and the API, the
+  RTE, the SDK and the Syntax, including all server and network components are
+  provided on an "as is" and "as available" basis, without any warranties of any
+  kind to the fullest extent permitted by law, and Deon Digital expressly
+  disclaims any and all warranties, whether express or implied, including, but
+  not limited to, any implied warranties of merchantability, title, fitness for
+  a particular purpose, and non-infringement. You acknowledge that Deon Digital
+  does not warrant that the service or API, RTE and SDK software, and the Syntax
+  will be uninterrupted, timely, secure, error-free or free from viruses or
+  other malicious software, and no information or advice obtained by you from
+  Deon Digital or through the service shall create any warranty not expressly
+  stated in these Terms.
+
+13.  Limitation of Liability
+
+  13.1 Deon Digital's liability shall be unlimited for:
+
+    13.1.1 loss or damage caused intentionally or by the gross negligence of
+    Deon Digital, its directors or its officers or intentionally by its other
+    vicarious agents;
+
+    13.1.2 loss or damage from acts causing death, bodily injury or illness, or
+    from the assumption of a guarantee or a procurement risk.
+
+  13.2 Deon Digital's liability for:
+
+    13.2.1 the gross negligence of its other vicarious agents;
+
+    13.2.2 the slight negligence of the Deon Digital, its directors, officers or
+    other vicarious agents in case the damage results from a breach of a
+    material contractual obligation (Kardinalpflicht) shall in no case exceed
+    the aggregate of 12 months fees received by Deon Digital from Developer
+    immediately preceding the event giving rise to such claim.
+
+14.  Excusable Delays (Force Majeure)
+
+  14.1 Neither Party shall be in breach of the Agreement if its failure to
+  perform any obligation under the Agreement, except for payment of Fees, is
+  caused by events or conditions beyond that Party's reasonable control,
+  including, without limitation, acts of God, civil commotion, war, strikes,
+  labor disputes, third party Internet service interruptions or slowdowns,
+  vandalism or "hacker" attacks, acts of terrorism or governmental demands or
+  requirements ("Force Majeure Event(s)").
+
+  14.2 The Party claiming such force majeure condition shall notify the other
+  Party as promptly as practicable after such Party becomes aware of the
+  occurrence of such force majeure condition. If a Force Majeure Event lasts for
+  more than ten (10) days, the other Party has the right to terminate the
+  Agreement upon prior written notice, and Deon Digital shall provide Developer
+  with a pro-rated refund of pre-paid fees.
+
+  14.3 Notwithstanding the provisions hereof, in every case, the Party claiming
+  excusable delay shall exercise all reasonable efforts to mitigate the extent
+  of such delay or failure.
+
+15.  Indemnification
+
+  15.1 Deon Digital Indemnification Obligation.
+  Deon Digital shall defend, or at its option settle, any third party claims or
+  suits against Developer its directors, officers, employees, agents, successors
+  and assigns ("Developer Indemnitees") based on a claim that alleges that the
+  Deon Digital Solution infringes any Intellectual Property Rights or any other
+  rights of a third party; and Deon Digital shall pay any final judgment entered
+  against Developer in any such claim or suit or Deon Digital agreed to
+  settlement amount.  To the extent that use of the Deon Digital Solution is
+  enjoined, Deon Digital may at its option either (i) procure for Developer the
+  right to use the Deon Digital Solution, (ii) replace the Deon Digital Solution
+  with other suitable solution, or (if (i) and (ii) are not available) (iii)
+  terminate the Agreement and provide Developer with a full refund of the Fee(s)
+  paid by Developer.  Deon Digital shall have no liability under this Section or
+  otherwise to the extent a claim or suit is based upon use of the Deon Digital
+  Solution in combination with software or hardware not provided or recommended
+  by Deon Digital or otherwise contemplated by the Parties.  The terms in this
+  Section shall be Developer's sole and exclusive remedy in connection with
+  third party claims of infringement.  Deon Digital's indemnification
+  obligations herein shall be subject to Section 14.3 herein.
+
+  15.2 Developer Indemnification Obligation.
+  Developer will indemnify, defend and hold harmless Deon Digital, its
+  directors, officers, employees, agents, successors and assigns ("Deon Digital
+  Indemnitees") from any claims, actions, suits, liabilities, losses, damages,
+  costs and expenses (including reasonable attorneys' fees) brought by a third
+  party against Deon Digital arising out of or related to (i) Developer's breach
+  of the Agreement and any of its covenants or representations or warranties
+  hereunder, or (ii) the Developer Data.  Developer's indemnification
+  obligations herein shall be subject to Section 14.3 herein.
+
+  15.3 Indemnification Procedures.
+  A Party seeking indemnification under this Section 14 ("Indemnified Party")
+  will give prompt written notice to the Party from whom indemnification is
+  sought ("Indemnifying Party"); provided, however, that failure to give such
+  notice will not relieve Indemnifying Party of any liability hereunder (except
+  to the extent Indemnified Party has suffered actual prejudice by such
+  failure).  The Indemnified Party shall provide reasonable assistance to defend
+  or settle an applicable claim at Indemnifying Party's expense.  The Parties
+  agree that Indemnifying Party shall have primary control of the defense and
+  settlement of such claim provided that Indemnified Party shall have the right
+  to participate in the defense and settlement negotiations of such claim
+  through its own counsel at its own expense, and provided further that
+  Indemnifying Party shall not agree to any settlement or compromise that
+  imposes any obligation or liability on Indemnified Party without such Party's
+  prior written consent.
+
+16.  Modifications
+
+  Developer acknowledges and agrees that Deon Digital may modify these Terms,
+  the Services, the API, the RTE, the SDK, the Syntax, the General API Policies,
+  and the Privacy Policy, from time to time (a "Modification"). Developer will
+  be notified of a Modification to these Terms, the Deon Digital API, the RTE,
+  the SDK, the Syntax, or the General API Policies through notifications or
+  posts on the Deon Digital Developer Website. All other Modifications shall be
+  communicated through the Services, Deon Digital's Sites, or any other website
+  owned and operated by Deon Digital or through a form of direct communication
+  from Deon Digital to Developer. Developer further acknowledges and agrees that
+  such Modifications may be implemented at any time and without any notice to
+  Developer. Developer shall, within thirty (30) days from the date of first
+  notice of any Modification(s) (or such shorter period of time specified in the
+  notice of the Modification(s)) (the "Conformance Period") comply with such
+  Modification(s) by implementing and using the most current version of the RTE,
+  the SDK, the Syntax and the API and making any changes to Applications that
+  may be required as a result of such Modification(s). Developer acknowledges
+  that a Modification may have an adverse effect on Applications, including but
+  not limited to changing the manner in which Applications communicate with the
+  API, the RTE, the SDK and the Syntax. Deon Digital shall have no liability of
+  any kind to Developer or any user of Developer's Applications with respect to
+  such Modifications or any adverse effects resulting from such
+  Modifications. Developer's continued access to or use of the Services or the
+  API, the RTE, the SDK and the Syntax, following the Conformance Period shall
+  constitute binding acceptance of the Modification(s) at issue.
+
+17.  Confidentiality
+
+  17.1 Obligations.
+  Each of the Parties agrees to maintain in confidence any non-public
+  information of the other Party, whether written or otherwise, disclosed by the
+  other Party in the course of performance of the Agreement that a Party knows
+  or reasonably should know is considered confidential by the disclosing Party
+  ("Confidential Information"). The receiving Party shall not disclose, use,
+  transmit, inform or make available to any entity, person or body any of the
+  disclosing Party's Confidential Information, except as a necessary part of
+  performing its obligations or rights hereunder, and shall take all such
+  actions as are reasonably necessary and appropriate to preserve and protect
+  the disclosing Party's Confidential Information and the Parties' respective
+  rights therein, at all times exercising at least a reasonable level of care.
+  Each Party agrees to restrict access to the Confidential Information of the
+  other Party to those employees or agents who require access in order to
+  perform hereunder, and, except as otherwise provided herein, neither Party
+  shall make the other Party's Confidential Information available to any other
+  person or entity without the prior written consent of the other Party.
+
+  17.2 Exclusions.
+  Confidential Information shall not include any information that is (i) already
+  known to the receiving Party at the time of the disclosure; (ii) publicly
+  known at the time of the disclosure or becomes publicly known through no
+  wrongful act or failure of the receiving Party; (iii) subsequently disclosed
+  to the receiving Party on a non-confidential basis by a third party not having
+  a confidential relationship with the other Party hereto and that rightfully
+  acquired such information; or (iv) communicated to a third party by the
+  receiving Party with the express written consent of the other Party hereto. A
+  disclosure of Confidential Information that is legally compelled to be
+  disclosed pursuant to a subpoena, summons, order or other judicial or
+  governmental process shall not be considered a breach of the Agreement;
+  provided the receiving Party provides prompt notice of any such subpoena,
+  order, or the like to the other Party so that such Party will have the
+  opportunity to obtain a protective order or otherwise oppose the disclosure.
+
+  17.3 Destruction or Return of Confidential Information.
+  Upon written request after the expiration or termination of the Agreement for
+  any reason, the receiving Party shall promptly return to the disclosing Party,
+  or destroy, as the Parties agree, all copies of the disclosing Party's
+  Confidential Information.
+
+18.  Term and Termination
+
+  This Agreement shall commence on the Effective Date set forth in the Purchase
+  Order and shall continue in effect for the period indicated in the Purchase
+  Order.
+
+  18.1 Termination for Cause.
+  Either Party may terminate the Agreement for cause:
+
+  18.1.1 upon thirty (30) days prior written notice of the other Party's
+    material breach of any provision of the Agreement unless such Party has
+    cured such breach during such thirty (30) day period; or
+
+  18.1.2 immediately, if the other Party files for bankruptcy, becomes
+    insolvent, or makes an assignment or novation for the benefit of creditors.
+
+  18.2 Failure to Pay/Developer Conduct.
+  Without limitation to its right of termination under Section 17.1, Deon
+  Digital may suspend or terminate Developer's and Users' access to the Deon
+  Digital Solution, at Deon Digital's sole option, with fourteen (14) days prior
+  written notice to Developer, if: (i) any undisputed payment is delinquent by
+  more than thirty (30) days after Developer's receipt of written notice of late
+  payment from Deon Digital and such suspension shall continue until payment of
+  all undisputed amounts owed are received, or (ii) if Developer breaches
+  Section 6.2 (Compliance with Laws) or 6.3 (Conduct) and such suspension will
+  continue until the applicable issue is fully resolved.
+
+  18.3 Effect of Termination.
+  Deon Digital shall not be liable to Developer or any third party for Deon
+  Digital's suspension or termination of Developer's access to, or right to use,
+  the Deon Digital Solution as such termination or suspension is authorized
+  under these Terms.  Except as otherwise noted, upon termination or expiration
+  of the Agreement, Developer will be obligated to pay the balance due of any
+  undisputed amounts owed to Deon Digital accruing until the effective date of
+  termination or expiration of the Agreement.  Upon the effective date of
+  expiration or termination of the Agreement for any reason, whether by
+  Developer or Deon Digital, (i) Developer's right to access and use the Deon
+  Digital Solution shall immediately cease, and (ii) Deon Digital shall promptly
+  return all Developer Data to Developer in a format specified by Developer.
+
+  18.4 Survival.
+  The following Sections of these Terms shall survive the termination of the
+  Agreement: Section 5 (License Restrictions), Section 7 (Fees and Taxes),
+  Section 9 (Ownership), Section 11 (Warranties/Warranty Disclaimer), Section 12
+  (Limitation of Liability), Section 13 (Indemnification), Section 16
+  (Confidentiality), Section 17.3 (Effect of Termination), Section 17.4
+  (Survival) and Section 18 (Miscellaneous).
+
+19.  Miscellaneous
+
+  19.1 Compliance with Laws.
+  Each Party represents and warrants, during the term of the Agreement, that it
+  is in compliance with and will comply with all applicable laws, rules,
+  governmental regulations and orders, including without limitation privacy and
+  data protection laws and governmental regulations in any applicable
+  jurisdiction in its performance of its obligations under the Agreement.
+
+  19.2 Notices.
+  Any notice, request, waiver, consent or approval shall be in writing in
+  English and shall be deemed to have been duly given or made when it is
+  delivered by hand or by prepaid registered post or facsimile to the Party to
+  which it is required or permitted to be given and made at such Party's address
+  or to such facsimile number set forth in the Applicable Agreements or such
+  other address or facsimile number as may be communicated in writing to the
+  other Party.  Each Party shall notify the other Party of any change of address
+  or facsimile numbers within three (3) business days of such change.
+
+  19.3 Assignment.
+  The Agreement may not be assigned or transferred by either Party, including
+  without limitation, by merger, operation of law or otherwise, without the
+  other Party's prior written consent; provided that Deon Digital may assign the
+  Agreement to an affiliate or as part of a transfer of the business to which
+  the Agreement relates without Developer's prior written consent.  Any
+  assignment in derogation of the foregoing is null and void.
+
+  19.4 Entire Agreement.
+  These Terms together with the relevant Applicable Agreement, together with all
+  addenda, schedules, and exhibits constitutes the entire agreement between the
+  Parties and supersedes all prior or contemporaneous agreements and
+  understandings between the Parties relating to the subject matter hereof.
+
+  19.5 Written Form.
+  Any modification of these Terms and/or any Applicable Agreement shall be valid
+  only if in writing and signed by the Parties. A contractual waiver of this
+  clause must also be in writing and signed by the Parties.
+
+  19.6 Governing Law.
+  These Terms and any Applicable Agreement shall exclusively be governed by, and
+  be construed in accordance with, the laws of Switzerland, without regard to
+  principles of conflicts of laws and without regard to the UN Convention on the
+  Sale of Goods (CISG).
+
+  19.7 Jurisdiction.
+  Any and all disputes, claims or litigation arising from or related in any way
+  to these Terms and/or any Applicable Agreement, including its formation, shall
+  be exclusively submitted to and resolved by the courts of Zurich, Switzerland.
+
+  19.8 Severability.
+  If any provision of these Terms and/or any Applicable Agreement should be or
+  become wholly or partially void, ineffective or unenforceable, the validity,
+  effectiveness and enforceability of the other provisions of these Terms and/or
+  the affected Applicable Agreement shall not be affected thereby. Any such
+  invalid, ineffective or unenforceable provision shall be deemed replaced by
+  such valid, effective and enforceable provision as comes closest to the
+  economic intent and purpose of the invalid, ineffective or unenforceable
+  provision as regards subject-matter, extent, time, place and scope. The
+  aforesaid shall apply mutatis mutandis to any gap in this Agreement.
