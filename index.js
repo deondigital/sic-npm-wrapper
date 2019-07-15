@@ -3,7 +3,7 @@ var path = require("path");
 
 var packageInfo = require(path.join(__dirname, "package.json"));
 var version = packageInfo.version;
-var root = "https://files.dev.deon.digital/sic/" + "v" + version;
+var root = "https://dist.deondigital.com/sic/" + "v" + version;
 
 module.exports = binwrap({
   dirname: __dirname,
