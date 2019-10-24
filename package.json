@@ -1,6 +1,6 @@
 {
   "name": "@deondigital/sic",
-  "version": "0.47.0",
+  "version": "0.48.0",
   "description": "sic code generation",
   "author": "Deon Digital",
   "main": "index.js",
