@@ -20,5 +20,8 @@
   "dependencies": {
     "binwrap": "^0.2.0"
   },
+  "peerDependencies": {
+    "@deondigital/api-client": "^13.0.0"
+  },
   "license": "LicenseRef-LICENSE"
 }
