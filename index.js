@@ -1,8 +1,6 @@
 var binwrap = require("binwrap");
-var path = require("path");
 
-var packageInfo = require(path.join(__dirname, "package.json"));
-var version = packageInfo.version;
+var version = "0.66.0"
 var root = "https://dist.deondigital.com/sic/" + "v" + version;
 
 module.exports = binwrap({
