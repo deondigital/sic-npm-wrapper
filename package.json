@@ -21,7 +21,7 @@
     "binwrap": "^0.2.0"
   },
   "peerDependencies": {
-    "@deondigital/api-client": "https://github.com/deondigital/api-client/releases/download/v17.2.0-RC11/deondigital-api-client-17.1.0.tgz",
+    "@deondigital/api-client": "^18.0.0",
     "immutable": "^4.0.0-rc.12"
   },
   "license": "LicenseRef-LICENSE"
