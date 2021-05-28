@@ -18,7 +18,9 @@
     "sic": "bin/sic"
   },
   "dependencies": {
-    "binwrap": "^0.2.0"
+    "binwrap": "^0.2.0",
+    "block-stream": "^0.0.9",
+    "fstream": "^1.0.12"
   },
   "peerDependencies": {
     "@deondigital/api-client": "^21.0.0",
