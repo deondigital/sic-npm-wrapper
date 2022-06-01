@@ -1,6 +1,6 @@
 var binwrap = require("binwrap");
 
-var version = "0.82.1"
+var version = "0.83.0"
 var root = "https://dist.deondigital.com/sic/" + version;
 
 module.exports = binwrap({
