@@ -1,6 +1,6 @@
 var binwrap = require("binwrap");
 
-var version = "1.0.0"
+var version = "1.0.1"
 var root = "https://dist.deondigital.com/sic/" + version;
 
 module.exports = binwrap({
@@ -8,6 +8,7 @@ module.exports = binwrap({
   binaries: [ "sic" ],
   urls: {
     "darwin-x64": root + "/macos/sic.tar.gz",
+    "darwin-arm64": root + "/macos/sic.tar.gz",
     "linux-x64": root + "/linux/sic.tar.gz",
     "win32-x64": root + "/windows/sic.zip"
   }
