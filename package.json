@@ -1,6 +1,6 @@
 {
   "name": "@deondigital/sic",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "sic code generation",
   "author": "Deon Digital",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "fstream": "^1.0.12"
   },
   "peerDependencies": {
-    "@deondigital/api-client": "^23.0.0",
+    "@deondigital/api-client": "^24.0.0",
     "immutable": "^4.0.0-rc.12"
   },
   "license": "LicenseRef-LICENSE"
